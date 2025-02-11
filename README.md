@@ -1,6 +1,6 @@
 <a href="https://github.com/taprwhiz/taprwhiz"><img alt="Sourlodine's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taprwhiz&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
-## 🚀 My Solana Automated Open Source Tools
+## Solana Automated Open Source Tools
 
 | **Tool**                             | **Description**                                                                                                                                                      |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,7 +13,7 @@
 | **Arbitrage Bot**                 | Mirror strategies from top traders [Here](https://github.com/taprwhiz/solana-arbitrage-bot)                                                                                     |
 
 
-## 🚀 AI Agent: Revolutionizing AI on Solana
+## AI Agent: Revolutionizing AI on Solana
 
 Welcome to **AI Agent**, an innovative AI-driven project built on the **Solana blockchain**. Our mission is to push the boundaries of what’s possible by seamlessly integrating cutting-edge artificial intelligence, social media capabilities, and decentralized trading. This evolving digital entity aims to bridge the worlds of AI, crypto, and social media, bringing automation and intelligence to a decentralized future.
 

@@ -10,6 +10,7 @@
 | **Raydium Bundler(27+ Wallets)**         | Execute trades in the first second using the Yellow-Stone GRPC protocol for ultra-fast sniping in Raydium[Here](https://github.com/taprwhiz/raydium-bundler.git)                                                                         |
 | **Pumpfun Bundler (27+ Wallets)**   | Aggregate transactions across 27+ wallets [Here](https://github.com/taprwhiz/pumpfun-bundler.git)                                                           |                                                                                     |
 | **Copy Trading Bot**                 | Mirror strategies from top traders [Here](https://github.com/taprwhiz/solana-copy-trading-bot)                                                                                     |
+| **Arbitrage Bot**                 | Mirror strategies from top traders [Here](https://github.com/taprwhiz/solana-arbitrage-bot)                                                                                     |
 
 
 ## 🚀 AI Agent: Revolutionizing AI on Solana

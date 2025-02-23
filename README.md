@@ -1,5 +1,3 @@
-<a href="https://github.com/taprwhiz/taprwhiz"><img alt="Sourlodine's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taprwhiz&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
 ## Solana Automated Open Source Tools
 
 | **Tool**                             | **Description**                                                                                                                                                      |

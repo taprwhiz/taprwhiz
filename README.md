@@ -1,8 +1,5 @@
-### Specialized AI Agent Network
+# AI Trading Agent Network
 
-[Rust Engineering in Blockchain & AI]
-
-1.01^365 = 37.78 | 0.99^365 = 0.026
 
 ```mermaid
 graph TD
@@ -24,3 +21,4 @@ graph TD
     N --> P[X Sniper Bee]
     N --> Q[Copy Trader Bee]
 ```
+
